@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\change12\\C\\ch07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|C:\\Users\\change12\\C\\ch07\\ex07-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|solutionrelative:ex07-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|C:\\Users\\change12\\C\\ch07\\fact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|solutionrelative:fact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|C:\\Users\\change12\\C\\ch07\\calc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|solutionrelative:calc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|C:\\Users\\change12\\C\\ch07\\calc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D7B9611-B694-4B8C-B2D4-DD5D37099466}|ch07.vcxproj|solutionrelative:calc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fact.c",
+              "DocumentMoniker": "C:\\Users\\change12\\C\\ch07\\fact.c",
+              "RelativeDocumentMoniker": "fact.c",
+              "ToolTip": "C:\\Users\\change12\\C\\ch07\\fact.c",
+              "RelativeToolTip": "fact.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T01:11:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex07-2.c",
+              "DocumentMoniker": "C:\\Users\\change12\\C\\ch07\\ex07-2.c",
+              "RelativeDocumentMoniker": "ex07-2.c",
+              "ToolTip": "C:\\Users\\change12\\C\\ch07\\ex07-2.c",
+              "RelativeToolTip": "ex07-2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T01:11:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calc.c",
+              "DocumentMoniker": "C:\\Users\\change12\\C\\ch07\\calc.c",
+              "RelativeDocumentMoniker": "calc.c",
+              "ToolTip": "C:\\Users\\change12\\C\\ch07\\calc.c",
+              "RelativeToolTip": "calc.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-16T01:01:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calc.h",
+              "DocumentMoniker": "C:\\Users\\change12\\C\\ch07\\calc.h",
+              "RelativeDocumentMoniker": "calc.h",
+              "ToolTip": "C:\\Users\\change12\\C\\ch07\\calc.h",
+              "RelativeToolTip": "calc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T00:58:06.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

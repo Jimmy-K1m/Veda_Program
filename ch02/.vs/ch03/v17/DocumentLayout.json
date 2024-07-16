@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\change12\\C\\ch02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0DAB01-F99F-4F4E-92D8-3DE1BCFD2485}|ch02.vcxproj|C:\\Users\\change12\\C\\ch02\\ex03-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F0DAB01-F99F-4F4E-92D8-3DE1BCFD2485}|ch02.vcxproj|solutionrelative:ex03-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex03-3.c",
+              "DocumentMoniker": "C:\\Users\\change12\\C\\ch02\\ex03-3.c",
+              "RelativeDocumentMoniker": "ex03-3.c",
+              "ToolTip": "C:\\Users\\change12\\C\\ch02\\ex03-3.c",
+              "RelativeToolTip": "ex03-3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-15T04:51:21.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
